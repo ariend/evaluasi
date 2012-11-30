@@ -13,4 +13,12 @@ Langkah-langkah menggunakan Evaluasi Web online:
 ========
 --> Jquery versi 1.4.4
 ========
---> Demo url: http://ariend.github.com/evaluasi
+--> Demo url: http://evaluasi.webuda.com/
+========
+--> TA IMK Oleh:
+    - Marina Azizah 
+      NIM : 209533424061
+      Web Develop
+    - Yayang Alvin
+      NIM : 209533421960
+      Konseptor
